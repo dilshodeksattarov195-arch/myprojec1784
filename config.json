@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcncrypt",
+        "uuid": 4247704,
+        "checksum": "909pj4"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
